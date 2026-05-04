@@ -32,7 +32,7 @@ Movie Library — это десктопное GUI‑приложение на Py
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [URL вашего репозитория]
+   git clone https://github.com/zolsvetl17-lab/IAGyatova.git
    cd movie_library
 2. Убедитесь, что у вас установлен Python 3.6+.
 
